@@ -1,0 +1,5 @@
+[package]
+
+name = "malbolge"
+version = "0.0.1"
+authors = ["Steve Sprang <scs@stevesprang.com>"]
